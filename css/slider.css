@@ -25,7 +25,11 @@
     margin-right: 30px;
 } */
 
-
+.conteiner {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .navigation-bar{
     display: flex;
